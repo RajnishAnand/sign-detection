@@ -27,13 +27,14 @@ This project supports **static signs only**.
 ---
 
 ## Project structure
+```
 ├── data_collection.py # Collect labeled hand sign samples
 ├── train_knn.py # Train KNN classifier on collected data
 ├── predict_live.py # Real-time sign prediction
 ├── sign_dataset.csv # Generated dataset (after collection)
 ├── knn_model.pkl # Trained model (after training)
 └── README.md
-
+```
 
 ```yaml
 
