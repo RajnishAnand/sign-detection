@@ -1,8 +1,7 @@
-# Hand Sign Language Detection (Hand Landmarks + ML)
-
+# Hand Sign Language Detection
 ![Screenshot](./res/screenshot.png)
 
-This project implements **Hnad sign language detection** (letters / numbers)
+This project implements **Hand sign language detection** (letters / numbers)
 using **hand landmarks only** (wrist + fingers), currently without face or body pose.
 
 It uses:
