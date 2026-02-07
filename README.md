@@ -1,4 +1,4 @@
-# Hand Sign Language Detection
+# Sign Language Detection Model
 ![Screenshot](./res/screenshot.png)
 
 This project implements **Hand sign language detection** (letters / numbers)
